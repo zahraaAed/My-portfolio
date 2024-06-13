@@ -26,7 +26,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="col-lg-6">
-                        <img className="img-fluid" src={profileImage} alt="Profile" />
+                        <img className="img-fluid-header" src={profileImage} alt="Profile" />
                     </div>
                 </div>
             </div>

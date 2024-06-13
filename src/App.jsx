@@ -1,16 +1,16 @@
 // src/App.js
 
 import React, { useEffect, useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-// import 'animate.css/animate.min.css';
-// import 'lightbox2/dist/css/lightbox.min.css';
-// import 'owl.carousel/dist/assets/owl.carousel.min.css';
-// import 'font-awesome/css/font-awesome.min.css';
+
+import 'animate.css/animate.min.css';
+import 'lightbox2/dist/css/lightbox.min.css';
+import 'owl.carousel/dist/assets/owl.carousel.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './scss/bootstrap.scss';
 import './style.css';
 import './bootstrap.min.css';
-import NavbarComponent from './components/Navbar';
+import NavbarComponent from './components/Navbar.jsx';
 import Header from './components/Header';
 import About from './components/About';
 import SkillsAndExperience from './components/Skills&Experience';
